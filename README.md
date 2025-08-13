@@ -28,14 +28,6 @@ Siempre estoy buscando aprender, mejorar y trabajar en proyectos que marquen la 
 
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manueltorrespro&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manueltorrespro&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 <p align="center">
   <a href="https://www.instagram.com/manueltorres._/?igsh=MW5mazc0ejVhMjJq&utm_source=qr">
