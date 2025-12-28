@@ -18,7 +18,7 @@ Siempre aprendiendo, siempre construyendo 🚀
 
 ⸻
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vite,github,vercel&perline=5&theme=dark" />
@@ -28,7 +28,7 @@ Siempre aprendiendo, siempre construyendo 🚀
 
 ⸻
 
-🌐 Conecta conmigo
+<h2>🌐 Conecta conmigo</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/manueltorres._/?igsh=MW5mazc0ejVhMjJq&utm_source=qr">
