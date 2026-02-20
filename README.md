@@ -6,7 +6,7 @@
 </p>
 
 
-<h2 align="center">👋 Frontend Developer</h2>
+<h2 align="center">Frontend Developer 👨🏼‍💻 </h2>
 
 
 <p align="center">
