@@ -18,7 +18,7 @@ Siempre aprendiendo, siempre construyendo 🚀
 <h2 aling="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vite,github,vercel&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,vite,figma,github,vercel&perline=5&theme=dark" />
 </p>
 
 
