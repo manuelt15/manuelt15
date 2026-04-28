@@ -1,29 +1,17 @@
 <!-- Encabezado con un banner -->
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hola!%20Soy%20Manuel%20Torres&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=200&section=header&text=Hola!%20Soy%20Manuel%20Torres&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header" />
 </p>
-
-
 <h2 align="center">Frontend Developer 👨🏼‍💻 </h2>
-
-
 <p align="center">
 Apasionado por crear interfaces modernas y experiencias digitales interactivas.<br/>
 Siempre aprendiendo, siempre construyendo 🚀
 </p>
-
-
-<h2 aling="center">🛠️ Tech Stack</h2>
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,vite,figma,github,vercel&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,vite,figma,tailwind,github,vercel&perline=5&theme=dark" />
 </p>
-
-
-<h2 aling="center">🌐 Conecta conmigo</h2>
-
+<h2 align="center">🌐 Conecta conmigo</h2>
 <p align="center">
   <a href="https://www.instagram.com/manueltorres._/?igsh=MW5mazc0ejVhMjJq&utm_source=qr">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
@@ -33,8 +21,6 @@ Siempre aprendiendo, siempre construyendo 🚀
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </p>
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" />
 </p>
