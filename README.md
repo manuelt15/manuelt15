@@ -9,7 +9,7 @@ Siempre aprendiendo, siempre construyendo 🚀
 </p>
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,vite,figma,tailwind,github,vercel&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,vscode,express,mongodb,vite,figma,tailwind,github,vercel&perline=5&theme=dark" />
 </p>
 <h2 align="center">🌐 Conecta conmigo</h2>
 <p align="center">
