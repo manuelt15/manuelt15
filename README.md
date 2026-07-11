@@ -12,7 +12,7 @@
 
 <br/>
 
-*Building, learning, iterating.*
+*Building and learning.*
 
 <br/>
 
