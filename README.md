@@ -25,11 +25,11 @@ Private bookmark index. Imports your Chrome bookmarks, sorts each link by what i
 
 ### [tk](https://toolkit-landing-delta.vercel.app)
 
-A command to start projects with AI agents (Claude Code, Codex and Hermes): modules and skills explained one by one, and a session handover so the next agent picks up where the last one left off.
+A command to start projects with AI agents (Claude Code, Codex and Hermes), built around the way I work: the skills I use most, modules explained one by one, and a session handover so the next agent picks up where the last one left off.
 
 <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 
-<a href="https://toolkit-landing-delta.vercel.app"><b>Website</b></a>&nbsp;&nbsp;<b>Coming soon to npm</b>
+<a href="https://toolkit-landing-delta.vercel.app"><b>Website</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/toolkit-public"><b>Repository</b></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/package/@manuelt15/toolkit"><b>npm</b></a>
 
 <br clear="right" />
 
