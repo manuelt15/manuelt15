@@ -57,6 +57,18 @@ Shop for an LA brand that sells more than clothes. What is live is the full mock
 
 <br clear="right" />
 
+<a href="https://alwayscreating.es"><img align="right" width="280" src="https://www.manueltorres.pro/always.jpg" alt="Screenshot of always creating" /></a>
+
+### [always creating](https://alwayscreating.es)
+
+My personal lab, a way to train creativity: written ideas, code and designs left unfinished, each with where it stands and what I wanted to try. A one-bit dither field that follows the cursor, three colour themes and an overlay form with email double opt-in to leave ideas or comments.
+
+<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /> <img src="https://img.shields.io/badge/Resend-18181B?style=flat-square&logo=resend&logoColor=FFFFFF" alt="Resend" />
+
+<a href="https://alwayscreating.es"><b>Live site</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/always_creating"><b>Repository</b></a>
+
+<br clear="right" />
+
 ## Stack
 
 **Frontend**<br/>
