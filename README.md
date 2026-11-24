@@ -56,6 +56,7 @@ My personal lab, a way to train creativity: written ideas, code and designs left
 <a href="https://alwayscreating.es"><b>Live site</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/always_creating"><b>Repository</b></a>
 
 <br clear="right" />
+
 ## Stack
 
 **Frontend**<br/>
