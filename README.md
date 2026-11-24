@@ -9,18 +9,6 @@ Based in Madrid.
 
 ## Projects
 
-<a href="https://indice-phi.vercel.app"><img align="right" width="280" src="https://www.manueltorres.pro/indice.jpg" alt="Screenshot of índice" /></a>
-
-### [índice](https://indice-phi.vercel.app)
-
-Private bookmark index. Imports your Chrome bookmarks, sorts each link by what it is and keeps every account isolated with Postgres Row Level Security. GDPR compliant from day one.
-
-<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Better%20Auth-18181B?style=flat-square&logo=betterauth&logoColor=FFFFFF" alt="Better Auth" /> <img src="https://img.shields.io/badge/Drizzle-18181B?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle" /> <img src="https://img.shields.io/badge/Neon-18181B?style=flat-square&logo=neon&logoColor=00E599" alt="Neon" />
-
-<a href="https://indice-phi.vercel.app"><b>Live demo</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/indice"><b>Repository</b></a>
-
-<br clear="right" />
-
 <a href="https://toolkit-landing-delta.vercel.app"><img align="right" width="280" src="https://www.manueltorres.pro/tk.jpg" alt="Screenshot of tk" /></a>
 
 ### [tk](https://toolkit-landing-delta.vercel.app)
@@ -30,6 +18,18 @@ A command to start projects with AI agents (Claude Code, Codex and Hermes), buil
 <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 
 <a href="https://toolkit-landing-delta.vercel.app"><b>Website</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/toolkit-public"><b>Repository</b></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/package/@manuelt15/toolkit"><b>npm</b></a>
+
+<br clear="right" />
+
+<a href="https://indice-phi.vercel.app"><img align="right" width="280" src="https://www.manueltorres.pro/indice.jpg" alt="Screenshot of índice" /></a>
+
+### [índice](https://indice-phi.vercel.app)
+
+Private bookmark index. Imports your Chrome bookmarks, sorts each link by what it is and keeps every account isolated with Postgres Row Level Security. GDPR compliant from day one.
+
+<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Better%20Auth-18181B?style=flat-square&logo=betterauth&logoColor=FFFFFF" alt="Better Auth" /> <img src="https://img.shields.io/badge/Drizzle-18181B?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle" /> <img src="https://img.shields.io/badge/Neon-18181B?style=flat-square&logo=neon&logoColor=00E599" alt="Neon" />
+
+<a href="https://indice-phi.vercel.app"><b>Live demo</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/indice"><b>Repository</b></a>
 
 <br clear="right" />
 
@@ -45,18 +45,6 @@ Shift planner for teams: weekly grid, time off and vacation tracking, PDF export
 
 <br clear="right" />
 
-<a href="https://04009c.vercel.app"><img align="right" width="280" src="https://www.manueltorres.pro/04009c.png" alt="Screenshot of 04009c" /></a>
-
-### [04009c The House of Access](https://04009c.vercel.app)
-
-Shop for an LA brand that sells more than clothes. What is live is the full mockup the real store will be built on: catalog with sizes and stock, cart, checkout and an admin dashboard in demo mode.
-
-<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /> <img src="https://img.shields.io/badge/Framer%20Motion-18181B?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" />
-
-<a href="https://04009c.vercel.app"><b>Live demo</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/04009c"><b>Repository</b></a>
-
-<br clear="right" />
-
 <a href="https://alwayscreating.es"><img align="right" width="280" src="https://www.manueltorres.pro/always.jpg" alt="Screenshot of always creating" /></a>
 
 ### [always creating](https://alwayscreating.es)
@@ -66,6 +54,18 @@ My personal lab, a way to train creativity: written ideas, code and designs left
 <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /> <img src="https://img.shields.io/badge/Resend-18181B?style=flat-square&logo=resend&logoColor=FFFFFF" alt="Resend" />
 
 <a href="https://alwayscreating.es"><b>Live site</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/always_creating"><b>Repository</b></a>
+
+<br clear="right" />
+
+<a href="https://04009c.vercel.app"><img align="right" width="280" src="https://www.manueltorres.pro/04009c.png" alt="Screenshot of 04009c" /></a>
+
+### [04009c](https://04009c.vercel.app)
+
+Shop for an LA brand that sells more than clothes. What is live is the full mockup the real store will be built on: catalog with sizes and stock, cart, checkout and an admin dashboard in demo mode.
+
+<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /> <img src="https://img.shields.io/badge/Framer%20Motion-18181B?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+
+<a href="https://04009c.vercel.app"><b>Live demo</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/04009c"><b>Repository</b></a>
 
 <br clear="right" />
 
