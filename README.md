@@ -56,19 +56,6 @@ My personal lab, a way to train creativity: written ideas, code and designs left
 <a href="https://alwayscreating.es"><b>Live site</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/always_creating"><b>Repository</b></a>
 
 <br clear="right" />
-
-<a href="https://04009c.vercel.app"><img align="right" width="280" src="https://www.manueltorres.pro/04009c.png" alt="Screenshot of 04009c" /></a>
-
-### [04009c](https://04009c.vercel.app)
-
-Shop for an LA brand that sells more than clothes. What is live is the full mockup the real store will be built on: catalog with sizes and stock, cart, checkout and an admin dashboard in demo mode.
-
-<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /> <img src="https://img.shields.io/badge/Framer%20Motion-18181B?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" />
-
-<a href="https://04009c.vercel.app"><b>Live demo</b></a>&nbsp;&nbsp;<a href="https://github.com/manuelt15/04009c"><b>Repository</b></a>
-
-<br clear="right" />
-
 ## Stack
 
 **Frontend**<br/>
